@@ -73,8 +73,8 @@ Experimenta y personaliza tu propio proceso de limpieza de datos 🧠
 
 
 ✍️ Autor
+Jhonatan
 
-Tu Nombre o Usuario de GitHub
 📫 jonasnba2006@gmail.com
 
 💼 LinkedIn www.linkedin.com/in/jhonatanmorenovelasquez
